@@ -1,0 +1,26 @@
+{
+  "name": "amazon",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Building an E-Commerce Application Using MERN STACK",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maneshwaran/Amazon-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maneshwaran/Amazon-app/issues"
+  },
+  "homepage": "https://github.com/maneshwaran/Amazon-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
