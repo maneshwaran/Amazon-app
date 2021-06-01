@@ -1,1 +1,1 @@
-Building an E-Commerce Application Using MERN STACK
+Building an Sample E-Commerce Application Using MERN STACK for learning purpose
